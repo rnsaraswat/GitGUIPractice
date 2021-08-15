@@ -1,0 +1,5 @@
+This is 2 document of Git GUI practice
+
+This is 1 para of 2 document
+
+This first line of 2 document durin 2 commit
